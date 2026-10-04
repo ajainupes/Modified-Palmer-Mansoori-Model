@@ -1,0 +1,5 @@
+parameter,value,unit
+nu,0.39,dimensionless
+c0,0.013,psia^-1
+pi,1100,psia
+pL,625,psia
